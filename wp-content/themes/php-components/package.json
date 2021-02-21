@@ -1,0 +1,14 @@
+{
+  "name": "php-components",
+  "version": "1.0.0",
+  "description": "A demonstration of PHP Components in WordPress.",
+  "main": "index.js",
+  "scripts": {
+    "build": "wp-scripts build"
+  },
+  "author": "Junaid Bhura",
+  "license": "MIT",
+  "devDependencies": {
+    "@wordpress/scripts": "^13.0.3"
+  }
+}
